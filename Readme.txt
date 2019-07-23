@@ -1,4 +1,4 @@
-Music Site (R)  
+Music Site   
 
 User Accounts
 
